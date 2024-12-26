@@ -55,7 +55,7 @@ This is a ROS2 package containing four navigation algorithms that were developpe
 2. The different tuning and control design parameters must be adjusted according to the workspace and needs of the user.
 3. The results of some experiments are reported in our journal paper “Global Hybrid Feedback Control with Local Optimal Obstacle Avoidance Maneuvers.” They can be visualised in the following videos:
    - The hybrid feedback navigation approach: https://youtu.be/rQc062EDYts
-   - The quai-optimal navigation approach: https://youtu.be/Z2AWva6DYgs
+   - The quasi-optimal navigation approach: https://youtu.be/Z2AWva6DYgs
    - A comparative study of the four approaches: https://youtu.be/KzUNLwQ5lMo
    
 
