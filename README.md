@@ -35,12 +35,19 @@ This is a ROS2 package containing four navigation algorithms that were developpe
 1. Setup your robot following the user manual https://turtlebot.github.io/turtlebot4-user-manual/#turtlebot4-user-manual
 2. Clone the package into your workspace
 3. Navigate to your workspace:
+   
    cd ~/ros2_ws
-4. Build the package:
+   
+5. Build the package:
+   
    colcon build --symlink-install --packages-select navigate_TBT4_pkg
-5. Source the workspace:
+   
+7. Source the workspace:
+   
    source install/setup.bash
-6. Run one of the desired navigation codes:
+   
+8. Run one of the desired navigation codes:
+   
    ros2 run navigate_TBT4_pkg local_optimal_hybrid_navigation
 
 ## Remarks
