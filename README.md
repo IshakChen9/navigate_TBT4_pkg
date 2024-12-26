@@ -8,7 +8,7 @@ This is a ROS2 package containing four navigation algorithms that were developpe
    
    - “Global Hybrid Feedback Control with Local Optimal Obstacle Avoidance Maneuvers.”
    
-2. The quai-optimal navigation approach (quasi_optimal_navigation.py)
+2. The quasi-optimal navigation approach (quasi_optimal_navigation.py)
 
    This approach applies to environments with convex obstacles satisfying a curvature condition (see the reference below for more details).
    
