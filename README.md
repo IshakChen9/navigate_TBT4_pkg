@@ -1,6 +1,6 @@
 # navigate_TBT4_pkg
 
-## Introduction
+## Description
 This is a ROS2 package containing four navigation algorithms that were developped for a Turtlebot4. The four navigation algorithms are presented as follows:
 1. The hybrid feedback navigation approach (local_optimal_hybrid_navigation.py)
 
