@@ -48,7 +48,7 @@ This is a ROS2 package containing four navigation algorithms that were developpe
    
 8. Run one of the desired navigation codes:
    ####
-       ros2 run navigate_TBT4_pkg local_optimal_hybrid_navigation
+       ros2 run navigate_TBT4_pkg <name_of_the_navigation_code_file>
 
 ## Remarks
 1. In our experiments, we used the simple discovery (networking) mode (see the user manual in the previous subsection for more details).
