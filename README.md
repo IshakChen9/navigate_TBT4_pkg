@@ -53,7 +53,7 @@ This is a ROS2 package containing four navigation algorithms that were developpe
 ## Remarks
 1. In our experiments, we used the simple discovery (networking) mode (see the user manual in the previous subsection for more details).
 2. The different tuning and control design parameters must be adjusted according to the workspace and needs of the user.
-3. The results of some experiments are reported in our journal paper [arxiv](https://arxiv.org/abs/2412.20320). They can be visualised in the following videos:
+3. The results of some experiments are reported in our journal paper “Global Hybrid Feedback Control with Local Optimal Obstacle Avoidance Maneuvers,” [arxiv](https://arxiv.org/abs/2412.20320). They can be visualised in the following videos:
    - The hybrid feedback navigation approach: https://youtu.be/rQc062EDYts
    - The quasi-optimal navigation approach: https://youtu.be/Z2AWva6DYgs
    - A comparative study of the four approaches: https://youtu.be/KzUNLwQ5lMo
