@@ -6,7 +6,7 @@ This is a ROS2 package containing four navigation algorithms that were developpe
 
    This approach is applicable in environments with disk-shaped obstacles.
    
-   - “Global Hybrid Feedback Control with Local Optimal Obstacle Avoidance Maneuvers.”
+   - Cheniouni, I., Berkane, S., and Tayebi, A., “Global Hybrid Feedback Control with Local Optimal Obstacle Avoidance Maneuvers,” [arxiv](https://arxiv.org/abs/2412.20320) 
    
 2. The quasi-optimal navigation approach (quasi_optimal_navigation.py)
 
