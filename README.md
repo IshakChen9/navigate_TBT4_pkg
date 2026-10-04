@@ -6,13 +6,13 @@ This is a ROS2 package containing four navigation algorithms that were developpe
 
    This approach is applicable in environments with disk-shaped obstacles.
    
-   - Cheniouni, I., Berkane, S., and Tayebi, A., “Global Hybrid Feedback Control with Local Optimal Obstacle Avoidance Maneuvers.” [arxiv](https://arxiv.org/abs/2412.20320)
+   - Cheniouni, I., Berkane, S., and Tayebi, A., “Hybrid Feedback Control for Global Navigation With Locally Optimal Obstacle Avoidance in n-Dimensional Spaces,” in IEEE Transactions on Control Systems Technology, vol. 34, no. 2, pp. 1074-1081, March 2026.
    
 2. The quasi-optimal navigation approach (quasi_optimal_navigation.py)
 
    This approach applies to environments with convex obstacles satisfying a curvature condition (see the reference below for more details).
    
-   - Cheniouni, I., Berkane, S., and Tayebi, A., “Safe and Quasi-Optimal Autonomous Navigation in Environments With Convex Obstacles,” IEEE Transactions on Automatic Control, 2024.
+   - Cheniouni, I., Berkane, S., and Tayebi, A., “Safe and Quasi-Optimal Autonomous Navigation in Environments With Convex Obstacles,” in IEEE Transactions on Automatic Control, vol. 70, no. 3, pp. 1761-1776, March 2025.
    
 2. The separating hyperplane navigation approach (separating_hyperplane_approach.py)
 
@@ -53,7 +53,7 @@ This is a ROS2 package containing four navigation algorithms that were developpe
 ## Remarks
 1. In our experiments, we used the simple discovery (networking) mode (see the user manual in the previous subsection for more details).
 2. The different tuning and control design parameters must be adjusted according to the workspace and needs of the user.
-3. The results of some experiments are reported in our journal paper “Global Hybrid Feedback Control with Local Optimal Obstacle Avoidance Maneuvers,” [arxiv](https://arxiv.org/abs/2412.20320). They can be visualised in the following videos:
+3. The results of some experiments are reported in our journal paper “Hybrid Feedback Control for Global Navigation With Locally Optimal Obstacle Avoidance in n-Dimensional Spaces.” They can be visualised in the following videos:
    - The hybrid feedback navigation approach: https://youtu.be/rQc062EDYts
    - The quasi-optimal navigation approach: https://youtu.be/Z2AWva6DYgs
    - A comparative study of the four approaches: https://youtu.be/KzUNLwQ5lMo
